@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: black;
+    
+}
+.toph
+{
+    background-image: url("https://lh3.googleusercontent.com/FlPbHnz_svTjFL6QMvGcCf-I0P31rI3LTq0DsBFmGHqtkYxAUHU14hVcvfuz4gkGXAdfx1fht0wxkyMpiU4wnPnWvg=w640-h400-e365-rj-sc0x00ffffff");
+    background-position-x: 1000px;
+    background-position-y: 1000px;
+}
+p
+{
+    margin: 20px;
+    font-size: 3.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 240, 25);
+    
+}
+.heading
+{
+    color: rgb(255, 0, 0);
+}
+.button
+{
+    background-color: rgb(207, 32, 32);
+    font-size: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
